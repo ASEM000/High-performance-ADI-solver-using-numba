@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/295934862.svg)](https://zenodo.org/badge/latestdoi/295934862)
+
 # High performance ADI solver using numba
 2D diffusion equation solver using ADI method and accelerated by numba
 
