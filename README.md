@@ -6,7 +6,7 @@
 Compared with numpy implementation , numba implementation is significantly faster as you can see in the semi-log figure.
 
 
-![Image](https://i.imgur.com/93UdxpL.png=10x)
+![Image](https://i.imgur.com/utvVZCy.png)
 
 
 ### Sample visualized solution
