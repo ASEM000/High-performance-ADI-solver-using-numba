@@ -31,9 +31,9 @@ utils.showHeatMap(grid,annotate=True,figsize=(15,15)) `
 
 **Show result**
 
-`
-time_step = 50
-utils.showHeatMap(solution[time_step,:,:], annotate=True,figsize=(15,15))
-`
+`time_step = 50
+
+utils.showHeatMap(solution[time_step,:,:], annotate=True,figsize=(15,15))`
+
 
 ![Image](https://i.imgur.com/JV3mJUf.png)
