@@ -4,7 +4,11 @@
 2D diffusion equation solver using ADI method and accelerated by numba
 
 #### Comparison between the execution time between numpy and numba implementation
-![Image](https://i.imgur.com/u3chQ9p.png)
+
+
+
+
+![Image](https://i.imgur.com/hlpckHG.png)
 
 ### How to use
 
